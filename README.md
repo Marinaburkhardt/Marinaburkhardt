@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+![header](header.jpg)  
+## Deploying in QA/Staging before Production? Ain't nobody got time for that!  
+My name is ***Marina Burkhardt*** and I like to design, develop, deploy and support solutions in AWS. Always with a DevOps Philosophy.
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marina-burkhardt/)
 
 <!--
 **Marinaburkhardt/Marinaburkhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
